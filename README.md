@@ -36,7 +36,7 @@
 <h2> 🤝 Let's Connect </h2>
 <br/>
 <div align="center">
-  <a href="mailto:engineer.nesarahmed@gmail.com" target="_blank">
+  <a href="mailto:nesartechcraft@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" />
   </a>
   <a href="https://linkedin.com/in/iamnesar" target="_blank">
